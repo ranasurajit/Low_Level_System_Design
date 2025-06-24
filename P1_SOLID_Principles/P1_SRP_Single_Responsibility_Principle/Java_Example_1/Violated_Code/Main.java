@@ -1,4 +1,4 @@
-package P1_SOLID_Principles.P1_SRP_Single_Responsibility_Principle.Example_1.Violated_Code;
+package P1_SOLID_Principles.P1_SRP_Single_Responsibility_Principle.Java_Example_1.Violated_Code;
 
 public class Main {
     public static void main(String[] args) {
