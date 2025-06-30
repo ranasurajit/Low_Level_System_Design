@@ -1,0 +1,9 @@
+package P2_Creational_Design_Patterns.P3_Abstract_Factory_Design_Pattern.Java_Example_1_Cab_Booking_App.Refactored_Code.factories;
+
+import P2_Creational_Design_Patterns.P3_Abstract_Factory_Design_Pattern.Java_Example_1_Cab_Booking_App.Refactored_Code.entities.LuxuryRide;
+import P2_Creational_Design_Patterns.P3_Abstract_Factory_Design_Pattern.Java_Example_1_Cab_Booking_App.Refactored_Code.entities.StandardRide;
+
+public interface RegionRideFactory {
+    public StandardRide createStandardRide();
+    public LuxuryRide createLuxuryRide();
+}
