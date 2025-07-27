@@ -1,4 +1,4 @@
-package P4_Behavioral_Design_Patterns.P2_Java_Example_2_Shopping_Cart_System.Violated_Code;
+package P4_Behavioral_Design_Patterns.P1_Strategy_Design_Pattern.Java_Example_2_Shopping_Cart_System.Violated_Code;
 
 public class Cart {
     private String discountType;
