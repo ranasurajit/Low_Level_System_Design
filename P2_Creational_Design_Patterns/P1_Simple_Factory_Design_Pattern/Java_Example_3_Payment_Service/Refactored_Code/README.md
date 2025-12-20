@@ -145,6 +145,12 @@ java.lang.IllegalArgumentException: Unknown payment type: CRYPTO
 
 ---
 
+## UML
+
+![Image](https://github.com/user-attachments/assets/5eeeb46c-7de6-4b6f-a5c1-e35d187b7121)
+
+---
+
 ## 🧠 Design Benefits
 
 | Principle | Achieved |
